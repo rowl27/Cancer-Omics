@@ -1,1 +1,3 @@
-# cancer_omics
+# Cancer Genetic Foundations
+
+Cancer is a disease with a genetic basis that develops through a process of somatic evolutions. This genetic foundation of cancer can trigger alterations due to environmental risk factors from patient. This set of external agents, known as mutations, can induce changes in DNA that, in certain cells, may trigger a tumoral process. Understanding and characterizing mutations or alterations in DNA sequences has become a reality through the analysis of the DNA status of each oncology patient. This understanding is known as Cancer Genomics, and it involves capturing a snapshot of the DNA to identify variations and defects at multiple molecular level though its omics sequences including pure genomics, transcriptomics, proteomics, metabolomics, metagenomics, and phenomics, where multiple of these measures are not independent but rather interconnected.
